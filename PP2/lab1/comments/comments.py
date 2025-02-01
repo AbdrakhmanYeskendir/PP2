@@ -1,4 +1,7 @@
-greeting = "Hello World!"
+# it is for one line comments
 
-#it returns "Hello World!"
-print(greeting)
+''' and 
+this 
+for 
+multiline 
+comments'''
