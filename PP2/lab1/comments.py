@@ -1,4 +1,7 @@
-greeting = "Hello World!"
+# "#" is used for one line comment 
 
-#it returns "Hello World!"
-print(greeting)
+"""
+This is a comment
+written in
+more than just one line
+"""
